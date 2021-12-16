@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="app_task">Вывести все простые числа до заданного</string>
+    <string name="number">Число</string>
+    <string name="not_valid">Не подходящее</string>
+    <string name="ok">ОК</string>
+</resources>

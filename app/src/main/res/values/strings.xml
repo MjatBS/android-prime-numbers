@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="app_task">Show all prime numbers before given</string>
+    <string name="number">Number</string>
+    <string name="not_valid">Not a valid</string>
+    <string name="ok">OK</string>
+</resources>
